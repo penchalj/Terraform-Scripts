@@ -1,0 +1,15 @@
+TerraformModules/.terraform/                                                                                                   
+metaarguments/.terraform/
+terraform-meta-args-lab/.terraform/
+terraform-vpc-lab/.terraform/
+terraform-vpc-lab-modules/.terraform/
+terraformsystemlab/.terraform/
+# Local .terraform path
+.terraform/
+
+# Hide state files (if you don't want them public)
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
